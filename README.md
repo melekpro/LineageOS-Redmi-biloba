@@ -1,2 +1,9 @@
-# Redmi-Note-8-2021-
-tree los base in android 11 Redmi Note 8 (2021)
+# Android device tree for Redmi biloba (biloba)
+
+```
+#
+# Copyright (C) 2024 The LineageOS Project
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
