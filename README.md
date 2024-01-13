@@ -1,4 +1,4 @@
-# Android device tree for Redmi biloba (biloba)
+# Android device tree for Redmi biloba (biloba)  
 
 ```
 #
